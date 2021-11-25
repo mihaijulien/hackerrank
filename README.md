@@ -23,6 +23,7 @@
 |Linked Lists|[Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list)|[Solution](Data%20Structures/Linked%20Lists/InsertNodeAtPosition.java)|
 |Linked Lists|[Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/)|[Solution](Data%20Structures/Linked%20Lists/CompareTwoLinkedLists.java)|
 |Linked Lists|[Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/)|[Solution](Data%20Structures/Linked%20Lists/ReverseLinkedList.java)|
+|Linked Lists|[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle)|[Solution](Data%20Structures/Linked%20Lists/CycleDetection.java)|
 |Trees|[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/)|[Solution](Data%20Structures/Trees/PostorderTraversal.java)|
 |Trees|[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/)|[Solution](Data%20Structures/Trees/PreorderTraversal.java )|
 |Trees|[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/)|[Solution](Data%20Structures/Trees/InorderTraversal.java)|
