@@ -15,6 +15,9 @@
 |Implementation|[Grading Students](https://www.hackerrank.com/challenges/grading/)|[Solution](Algorithms/Implementation/GradingStudents.java)|
 |Implementation|[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/)|[Solution](Algorithms/Implementation/NumberLineJumps.java)|
 |Implementation|[Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/)|[Solution](Algorithms/Implementation/SubarrayDivision.java)|
+|Strings|[CamelCase](https://www.hackerrank.com/challenges/camelcase/)|[Solution](Algorithms/Strings/CamelCase.java)|
+|Strings|[Strong Password](https://www.hackerrank.com/challenges/strong-password)|[Solution](Algorithms/Strings/
+StrongPassword.java )|
 
 ## Data Structures
 
@@ -30,3 +33,6 @@
 |Trees|[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/)|[Solution](Data%20Structures/Trees/TreeHeight.java )|
 |Trees|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal)|[Solution](Data%20Structures/Trees/LevelOrderTraversal.java)|
 |Trees|[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion)|[Solution](Data%20Structures/Trees/BinarySearchTreeInsertion.java)|
+|Arrays|[Arrays : DS](https://www.hackerrank.com/challenges/arrays-ds/)|[Solution](Data%20Structures/Arrays/ArraysDS.java)|
+|Arrays|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/)|[Solution](Data%20Structures/Arrays/LeftRotation.java)|
+|Arrays|[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)|[Solution](Data%20Structures/Arrays/SparseArrays.java)|
