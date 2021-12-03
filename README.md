@@ -16,8 +16,7 @@
 |Implementation|[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/)|[Solution](Algorithms/Implementation/NumberLineJumps.java)|
 |Implementation|[Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/)|[Solution](Algorithms/Implementation/SubarrayDivision.java)|
 |Strings|[CamelCase](https://www.hackerrank.com/challenges/camelcase/)|[Solution](Algorithms/Strings/CamelCase.java)|
-|Strings|[Strong Password](https://www.hackerrank.com/challenges/strong-password)|[Solution](Algorithms/Strings/
-StrongPassword.java )|
+|Strings|[Strong Password](https://www.hackerrank.com/challenges/strong-password)|[Solution](Algorithms/Strings/StrongPassword.java )|
 
 ## Data Structures
 
