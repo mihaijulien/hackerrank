@@ -44,4 +44,12 @@
 ## SQL
 |Subdomain|Challenge|Solution|
 |-|-|-|
-|Basic Select|Revising the Select Query I|[Solution](sql/basic%20select/revising_the_select_query.sql)|
+|Basic Select|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|[Solution](sql/basic%20select/revising_the_select_query.sql)|
+|Basic Select|[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) |[Solution](sql/basic%20select/select_all.sql)|
+|Basic Select|[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) |[Solution](sql/basic%20select/select_by_id.sql.sql)|
+|Basic Select|[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/) |[Solution](sql/basic%20select/japanese_city_attributes.sql)|
+|Basic Select|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) |[Solution](sql/basic%20select/japanese_city_names.sql)|
+|Basic Select|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) |[Solution](sql/basic%20select/weather_observation_1.sql)|
+|Basic Select|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) |[Solution](sql/basic%20select/weather_observation_3.sql)|
+|Basic Select|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) |[Solution](sql/basic%20select/weather_observation_4.sql)|
+|Basic Select|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) |[Solution](sql/basic%20select/weather_observation_5.sql)|
