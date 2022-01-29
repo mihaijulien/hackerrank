@@ -39,7 +39,9 @@
 |Arrays|[Arrays : DS](https://www.hackerrank.com/challenges/arrays-ds/)|[Solution](Data%20Structures/Arrays/ArraysDS.java)|
 |Arrays|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/)|[Solution](Data%20Structures/Arrays/LeftRotation.java)|
 |Arrays|[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)|[Solution](Data%20Structures/Arrays/SparseArrays.java)|
-|Queues|[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|[Solution](Data%20Structures/Arrays/QueueUsingTwoStacks.java)|
+|Queues|[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|[Solution](Data%20Structures/Queues/QueueUsingTwoStacks.java)|
+|Heap|[QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem)|[Solution](Data%20Structures/Heap/QQheap1.java)|
+|Stacks|[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)|[Solution](Data%20Structures/Stacks/BalancedBrackets.java)|
 
 ## SQL
 |Subdomain|Challenge|Solution|
