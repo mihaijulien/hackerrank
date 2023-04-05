@@ -15,6 +15,9 @@
 |Implementation|[Grading Students](https://www.hackerrank.com/challenges/grading/)|[Solution](Algorithms/Implementation/GradingStudents.java)|
 |Implementation|[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/)|[Solution](Algorithms/Implementation/NumberLineJumps.java)|
 |Implementation|[Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/)|[Solution](Algorithms/Implementation/SubarrayDivision.java)|
+|Implementation|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/)|[Solution](Algorithms/Implementation/MigratoryBirds.java)|
+|Implementation|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/)|[Solution](Algorithms/Implementation/ExtraLongFactorials.java)|
+|Implementation|[Cats And a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/)|[Solution](Algorithms/Implementation/CatsAndMouse.java)|
 |Strings|[CamelCase](https://www.hackerrank.com/challenges/camelcase/)|[Solution](Algorithms/Strings/CamelCase.java)|
 |Strings|[Strong Password](https://www.hackerrank.com/challenges/strong-password)|[Solution](Algorithms/Strings/StrongPassword.java )|
 |Greedy|[Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/)|[Solution](Algorithms/Greedy/MinimumAbsoluteDifference.java )|
