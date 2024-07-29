@@ -46,6 +46,19 @@
 |Heap|[QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem)|[Solution](Data%20Structures/Heap/QQheap1.java)|
 |Stacks|[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)|[Solution](Data%20Structures/Stacks/BalancedBrackets.java)|
 
+## Functional Programming
+
+|Subdomain|Challenge|Solution|
+|-|-|-|
+|Introduction|[Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements)|[Solution](Functional/Introduction/SumOddElements.hs)|
+|Introduction|[Reverse A List](https://www.hackerrank.com/challenges/fp-reverse-a-list/)|[Solution](Functional/Introduction/ReverseList.hs)|
+|Introduction|[Filter Array](https://www.hackerrank.com/challenges/fp-filter-array/)|[Solution](Functional/Introduction/FilterArray.hs)|
+|Introduction|[Filter Positions in a List](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/)|[Solution](Functional/Introduction/FilterPositionsList.hs)|
+|Introduction|[List Length](https://www.hackerrank.com/challenges/fp-list-length/)|[Solution](Functional/Introduction/ListLength.hs)|
+|Introduction|[Update List](https://www.hackerrank.com/challenges/fp-update-list)|[Solution](Functional/Introduction/UpdateList.hs)|
+|Recursion|[Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/)|[Solution](Functional/Recursion/GCD.hs)|
+|Recursion|[Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/)|[Solution](Functional/Recursion/Fibonacci.hs)|
+
 ## SQL
 |Subdomain|Challenge|Solution|
 |-|-|-|
